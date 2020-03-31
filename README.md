@@ -1,2 +1,2 @@
-# lishize1234.machine-learning-project
+### machine-learning-project
 Machine Learning project
